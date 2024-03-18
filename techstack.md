@@ -5,7 +5,6 @@ DotEsparto1/Selenium is built on the following main stack:
 
 - [Java](https://www.java.com) – Languages
 - [Log4j](https://logging.apache.org/log4j/2.x/) – Logging Tools
-- [TestNG](http://testng.org/doc/) – Testing Frameworks
 
 Full tech stack [here](/techstack.md)
 
@@ -17,7 +16,6 @@ DotEsparto1/Selenium is built on the following main stack:
 
 - <img width='25' height='25' src='https://img.stackshare.io/service/995/K85ZWV2F.png' alt='Java'/> [Java](https://www.java.com) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/2804/Coralogix-log4j-integration.jpg' alt='Log4j'/> [Log4j](https://logging.apache.org/log4j/2.x/) – Logging Tools
-- <img width='25' height='25' src='https://img.stackshare.io/service/8900/no-img-open-source.png' alt='TestNG'/> [TestNG](http://testng.org/doc/) – Testing Frameworks
 
 Full tech stack [here](/techstack.md)
 
@@ -28,7 +26,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [DotEsparto1/Selenium](https://github.com/DotEsparto1/Selenium)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|5<br/>Tools used|03/15/24 <br/>Report generated|
+|4<br/>Tools used|03/18/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -45,7 +43,7 @@ Full tech stack [here](/techstack.md)
 </tr>
 </table>
 
-## <img src='https://img.stackshare.io/devops.svg'/> DevOps (3)
+## <img src='https://img.stackshare.io/devops.svg'/> DevOps (2)
 <table><tr>
   <td align='center'>
   <img width='36' height='36' src='https://img.stackshare.io/service/1046/git.png' alt='Git'>
@@ -60,15 +58,7 @@ Full tech stack [here](/techstack.md)
   <br>
   <sub><a href="https://logging.apache.org/log4j/2.x/">Log4j</a></sub>
   <br>
-  <sub></sub>
-</td>
-
-<td align='center'>
-  <img width='36' height='36' src='https://img.stackshare.io/service/8900/no-img-open-source.png' alt='TestNG'>
-  <br>
-  <sub><a href="http://testng.org/doc/">TestNG</a></sub>
-  <br>
-  <sub></sub>
+  <sub>v1.2.17</sub>
 </td>
 
 </tr>
@@ -81,7 +71,7 @@ Full tech stack [here](/techstack.md)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
-|[commons-io:commons-io](http://commons.apache.org/proper/commons-io/)|v2.6|03/15/24|DotEsparto1 |Apache-2.0|[CVE-2021-29425](https://github.com/advisories/GHSA-gwrp-pvrq-jmwv) (Moderate)|
+|[commons-io:commons-io](http://commons.apache.org/proper/commons-io/)|v2.8|03/15/24|DotEsparto1 |Apache-2.0|N/A|
 
 <br/>
 <div align='center'>
